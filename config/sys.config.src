@@ -1,0 +1,5 @@
+[
+  { amqp_example, [
+      {rabbit_host, "${RABBIT_HOST}"}
+  ]}
+].
